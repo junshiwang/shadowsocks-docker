@@ -11,4 +11,3 @@ COPY docker-entrypoint.sh /usr/local/bin/
 ENTRYPOINT ["docker-entrypoint.sh"]
 
 EXPOSE 10000
-WORKDIR $SSHOME
