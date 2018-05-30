@@ -1,4 +1,4 @@
-# Shadowsocks 3.1.3
+# Shadowsocks 3.2.0
 Shadowsocks 是一种基于Socks5代理方式的网络数据加密传输工具。Shadowsocks 分为服务器端和客户端，在使用之前，需要先将服务器端部署到服务器上面，然后通过客户端连接并创建本地代理。
 
 # Run
